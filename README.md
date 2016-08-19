@@ -1,7 +1,7 @@
 # Blackjack Solitaire
 
 This repository contains codes that build a simipler version of Blackjack Solitaire (see link below)
-http://www.solitairenetwork.com/Solitaire/blackjack-square-solitaire- game.html
+http://www.solitairenetwork.com/Solitaire/blackjack-square-solitaire-game.html
 
 ### Classes
 - cards: The code includes both Card and Deck classes that are later implemented into SolBlackjack 
